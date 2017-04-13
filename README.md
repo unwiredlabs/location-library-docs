@@ -48,7 +48,7 @@ here](https://github.com/unwiredlabs/location-library-demo).
 
 **Library file:** The library which you must include in your project is
 [available for download as a .aar file
-here.](https://github.com/unwiredlabs/location-library-docs/releases/download/0.7.2/Unwired.Location.Library.0.7.2.zip)
+here.](https://github.com/unwiredlabs/location-library-docs/releases/download/0.9/locationapi-release_0.9.0.aar.zip)
 
 **Developer token:** You will also need a free developer token, which you can
 get by [signing up here](https://unwiredlabs.com/trial).
